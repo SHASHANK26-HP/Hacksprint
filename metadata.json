@@ -1,0 +1,6 @@
+{
+  "name": "ClaimGuard AI",
+  "description": "Explainable Healthcare Claims Anomaly Detection and Fraud Review System with multi-layer ML scoring, SHAP feature attribution, and investigator workbench.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
